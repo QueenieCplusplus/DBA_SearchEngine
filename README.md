@@ -9,7 +9,7 @@
        
         +
         
-       Rule            (Query Plan = Query Tree + DDL + Utility )
+       Rule            (Query Plan = Query Tree + DDL + Utility)
        
         +
         
